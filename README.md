@@ -37,9 +37,11 @@ The Mall Parking Management System automatically:
 - Revenue Trends
 - Recent Parking Activity
 
-<img src="images/HMimg1.png" width="800"/>
+<img src="images/Image1.png" width="800"/>
 
-<img src="images/HMimg2.png" width="800"/>
+<img src="images/Image2.png" width="800"/>
+
+<img src="images/Image3.png" width="800"/>
 
 ## 🛠️ Technologies Used
 
